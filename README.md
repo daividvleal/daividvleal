@@ -15,6 +15,6 @@
 <img alt="daividvleal" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=daividvleal&line_height=27&include_all_commits=true&show_icons=true&hide_border=true&theme=dark&count_private=true" />
 
 <a href="https://github.com/Daggy1234">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daividvleal&layout=compact&theme=dark&langs_count=8" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daividvleal&theme=dark" />
 </a>
 <hr>
