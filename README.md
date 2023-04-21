@@ -1,4 +1,4 @@
-### Hello world 👋, I'm Daivid, Mobile Developer and Quantum Computing enthusiast. <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="30px">
+### Hello world 👋, I'm Daivid Vasconcelos Leal, Mobile Developer and Quantum Computing enthusiast. <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="30px">
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-6633cc?style=flat-square&logo=Linkedin&logoColor=white&color=black&link=https://www.linkedin.com/in/daivid/)](https://www.linkedin.com/in/daivid/)
 
