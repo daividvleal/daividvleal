@@ -2,7 +2,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-6633cc?style=flat-square&logo=Linkedin&logoColor=white&color=black&link=https://www.linkedin.com/in/daivid/)](https://www.linkedin.com/in/daivid/)
 
-- 🔭 I’m currently working on Banco Inter
+- 🔭 I’m currently working on Banco Inter also as a Teacher at Nova Roma.
 - 🌱 I’m currently learning Flutter
 - 👯 I’m looking to collaborate on any project that is enroled at Android Development or Quantum Computing.
 - 🤔 I’m looking for help with Flutter and iOS development.
